@@ -1,0 +1,1 @@
+the boundaries do not have update equations, will always cause a small error (I think for all methods, especially for finite difference)
