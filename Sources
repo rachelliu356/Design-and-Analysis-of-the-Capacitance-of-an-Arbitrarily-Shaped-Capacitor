@@ -2,3 +2,6 @@ Doc where we can keep track of all the sources we use throughout the project so 
 
 FFT:
 https://summa.unm.edu/notes/Mathematics/0100.pdf
+
+2D Laplace Solver using FDM:
+https://www.mathworks.com/matlabcentral/fileexchange/34232-finite-difference-method-solution-to-laplace-s-equation
