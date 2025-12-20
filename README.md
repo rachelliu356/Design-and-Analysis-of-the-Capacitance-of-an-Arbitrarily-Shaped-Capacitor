@@ -11,4 +11,4 @@ z_top = @(x, y) z_top_flat (x, y);
 
 You can change the length, width, and height using the Lx, Ly, and Lz fields. 
 
-For the FDM solver, there is one main file you need to download. For ease of testing, FDMTestFiles folder has example test files for different surfaces. To test different results seen in our report, refer to the respective test file and set the different conditions accordingly. More details can be found in the comments at the top of each test file.
+For the FDM solver, there is one main file you need to download. For ease of testing, FDMTestFiles folder has example test files for different surfaces. To test different results seen in our report, download the respective test file and set the different conditions accordingly. More details can be found in the comments at the top of each test file.
