@@ -26,4 +26,5 @@ You can change the length, width, and height using the Lx, Ly, and Lz fields.
 
 ## Citations
 [1] S. Chowdhury, P. K. Das, and S. B. Faruque, Numerical Solutions of Boundary Value Problems with Finite Difference Method. San Rafael, California: Morgan & Claypool Publishers; Institute of Physics, 2018.
+
 [2] T. LaForce, “Boundary element method: Course notes,” Stanford University, Stanford, CA, Tech. Rep., Jun. 2006, pE281 Boundary Element Method course notes
