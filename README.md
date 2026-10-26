@@ -1,6 +1,7 @@
 # Design-and-Analysis-of-the-Capacitance-of-an-Arbitrarily-Shaped-Capacitor
 
-This project presents a computational tool for the design and analysis of the capacitance of an arbitrarily shaped capacitor. We built and evaluated numerical solvers of the Laplace Equation using two different numerical methods: the Finite Difference Method (FDM) and the Boundary Element Method (BEM). The objective of this project is to determine the merits and limitations of each numerical method for different geometries and circumstances, and to provide insight into how these models could be used in analog circuit design and layout.
+This project presents a computational tool for the design and analysis of the capacitance of an arbitrarily shaped capacitor. Many numerical methods can be implemented to solve this
+problem, and each has their respective strengths and limitations for different cases. With arbitrarily shaped capacitors and parasitic capacitance effects in modern analog electronics, it is useful to understand under which circumstances would demand implementing a certain numerical method. We built and evaluated numerical solvers of the Laplace Equation using two different numerical methods: the Finite Difference Method (FDM) and the Boundary Element Method (BEM). The objective of this project is to determine the merits and limitations of each numerical method for different geometries and circumstances, and to provide insight into how these models could be used in analog circuit design and layout.
 
 ## Finite Difference Method (FDM)
 The Finite Difference Method (FDM) is a numerical technique for approximating solutions to differential equations that involves discretizing the solution domain into a grid, and
