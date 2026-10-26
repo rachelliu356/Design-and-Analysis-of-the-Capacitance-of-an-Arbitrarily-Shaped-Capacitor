@@ -12,7 +12,7 @@ Our implementation of the FDM solver is found in ```LaplaceSolver3DSurfacesFDM.m
 ## Boundary Element Method (BEM)
 The Boundary Element Method (BEM) is a numerical method for finding the solution to a PDE, often used as an alternative to the Finite Element Method, or FEM, when the FEM solution would require an unreasonably large number of mesh points. BEM reduces the number of mesh points required by evaluating the PDE only on the boundaries of its domain, while FEM evaluates the PDE at mesh points throughout the entire volume [2].
 
-Our implementation of the BEM solver is found in ```MAT292BENsolver.m```. To run the solver on your own device, download the respective ```.mlx``` file from the ```Final_Submission``` folder. To test the different results seen in our report, please set z_bot and z_top fields, located on lines 47 and 48, equal to the case you would like to test.
+Our implementation of the BEM solver is found in ```MAT292BEMsolver.m```. To run the solver on your own device, download the respective ```.mlx``` file from the ```Final_Submission``` folder. To test the different results seen in our report, please set z_bot and z_top fields, located on lines 47 and 48, equal to the case you would like to test.
 
 For example, to test a parallel plate capacitor, you should have:
 
